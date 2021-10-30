@@ -1,0 +1,44 @@
+.deluxe{
+    background-color: white;
+    border: 16px solid white;
+    border-radius: 12px;
+}
+
+#container-C{
+    
+    width: 600px;
+    background-color: white;
+    float: right;
+    margin-right: 50px;
+    margin-top: 45px;
+
+    font-size: 3vw;
+    text-align: center;
+    padding: 20px 0vw 20px 0vw;
+    border-radius: 12px;
+        
+    
+}
+.pictureHotel{
+    width: 0%;
+    display: inline-block;        
+        
+}
+
+.picture{
+    margin: 12px;
+    margin-top: 36px;
+   
+}
+.text{
+    font-family: 'Lucida Sans';
+    font-size: 14px;
+    padding: 16px;
+}
+
+.title{
+    font-family: 'Lucida Sans';
+    font-size: 22px;
+    padding: 12px;
+}
+

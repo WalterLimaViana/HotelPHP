@@ -1,0 +1,45 @@
+/*CSS Gallery Photos*/
+div.gallery {
+    margin: 16px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 300px;
+    margin-top: 35px;
+    
+}
+
+div.gallery:hover {
+border: 1px solid #777;
+}
+
+div.gallery img {
+width: 100%;
+height: auto;
+}
+
+div.desc {
+padding: 15px;
+text-align: center;
+background-color: rgb(247, 247, 247);
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/*CSS Maps*/
+iframe{
+    margin: 22px;
+}
+
+.titleP{
+    padding: 15px ;
+    margin-left: auto;
+    margin-right: auto;
+    width: 480px;    
+    background-color: rgb(247, 247, 247);
+    max-width: max-content;
+    
+    border-radius: 12px;
+    border-right: 450px;
+    text-align: center;
+    
+}
+

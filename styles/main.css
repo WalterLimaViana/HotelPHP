@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    display: flex;
+    flex-direction:row;
+    align-items:center;
+}
+
+.logoFenix{
+    border: none;
+    width: 7%;
+    margin-left:25px;
+    margin-top:8px;
+    position: relative;      
+}
+
+header{
+    padding: 2px;
+    background-color:white;
+    margin: 12px;
+    border-radius: 12px;
+}
+
+header nav a{
+    text-decoration: none;
+    color: black;
+    padding-bottom: 0;
+    margin:10px;
+    margin-left: 90px;
+    font-size:20px;       
+    text-align: right;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+header nav a:hover{
+    color: rgb(175, 175, 175);
+}
+
+/* Rodapé */
+
+footer{
+    
+    color: black;
+    background-color: rgb(247, 247, 247);
+    padding: 12px;
+    max-block-size: inside;       
+    margin-top: 15px;
+    font-size: 14px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
